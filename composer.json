@@ -11,6 +11,11 @@
       "homepage": "http://etrepat.com"
     },
     {
+      "name": "Ciao Chung",
+      "email": "ciao0958@gmail.com",
+      "homepage": "https://ciao-chung.com"
+    },
+    {
       "name": "Sai",
       "email": "sai@weiclan.com",
       "homepage": "https://www.weiclan.com"
@@ -33,5 +38,6 @@
     "psr-0": {
       "Baum": "src/"
     }
-  }
+  },
+  "version": "1.0.0"
 }
